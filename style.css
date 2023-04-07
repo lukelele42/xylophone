@@ -8,6 +8,7 @@
     padding-right: 150px;
     background-color: rgba(128, 128, 128, 0.774);
     padding-bottom: 270px;
+    min-width: 990px;
 }
 
 button {
